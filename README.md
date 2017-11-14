@@ -1,5 +1,5 @@
 # wavelet-saliency
-A Saliency Detection Model Using Low-Level Features Based on Wavelet Transform
+### A Saliency Detection Model Using Low-Level Features Based on Wavelet Transform
 
 This code is used to compute bottom-up saliency map using low-level features based on Wavelet transform. This is a revised version of the following publication for public distribution on web. Please cite the following paper when you use this code.
 
